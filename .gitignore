@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+#Environment variables / secrets
+.env
+.env.*
+
+# Node.js (frontend)
+node_modules/
+dist/
+
+#macos
+.DS_Store
